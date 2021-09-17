@@ -1,6 +1,6 @@
 # Patika.dev
 
-## Bootstrap Homework 1 | Updating Babadag Outdoor Web Site
+## Bootstrap Homework 1 | Updating Gülcicek Web Site
 
 
 
